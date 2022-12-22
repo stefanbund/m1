@@ -1,0 +1,68 @@
+﻿date,time,indicator,actual,previous,consensus,forecast
+8/1/22 0:00,6:00 AM,ISM Manufacturing PMI,52.8,53,52,52.2
+8/2/22 0:00,6:00 AM,JOLTS Job Openings,10.698,11.303,11,11
+8/3/22,6:00 AM,ISM Non Manufacturing PMI,56.7,55.3,53.5,52.5
+8/4/22,4:30 AM,Balance of Trade,-79.6,-84.9,-80.1,-83
+8/5/22,4:30 AM,Non Farm Payrolls,528,398,250,290
+8/10/22,4:30 AM,Core Inflation Rate,5.9,5.9,6.1,5.9
+8/10/22,4:30 AM,Inflation Rate YoY,8.5,9.1,8.7,9.1
+8/11/22,4:30 AM,PPI MoM,-0.5,1,0.2,0.4
+8/12/22,6:00 AM,Michigan Consumer Sentiment Pref,55.1,51.5,52.5,51.3
+8/16/22,4:30 AM,Buildling Permits,1.674,1.696,1.65,1.67
+8/17/22,4:30 AM,retail sales mom,0,0.8,0.1,0.2
+8/17/22,10:00 AM,fomc minutes,,,,
+8/24/22,4:30 AM,durable goods orders mom,0,2.2,0.6,0.8
+8/26/22,4:30 AM,personal income mom,0.2,0.7,0.6,0.5
+8/26/22,4:30 AM,personal spending mom,0.1,1,0.4,0.2
+8/26/22,6:00 AM,fed chair powell speech,,,,
+8/30/22,6:00 AM,jolts job openings,11.23,11.04,10.45,10.5
+9/1/22,6:00 AM,ism manufacturing pmi,52.8,52.8,52,52
+9/2/22,4:30 AM,non farm payrolls,315,526,300,310
+9/6/22,6:00 AM,ism non manufacturing pmi,56.9,56.7,55.1,55
+9/7/22,4:30 AM,balance of trade,-70.7,-80.9,-70.3,-70
+9/14/22,4:30 AM,ppi mom,-0.1,-0.4,-0.1,0.1
+9/15/22,4:30 AM,retail sales mom,0.3,-0.4,0,0.1
+9/16/22,6:00 AM,Michigan Consumer Sentiment Pref,59.5,58.2,60,58.6
+9/20/22,4:30 AM,building permits,1.517,1.685,1.61,1.63
+9/21/22,10:00 AM,fomc economic projections,,,,
+9/21/22,10:00 AM,fed press conference,,,,
+9/27/22,4:30 AM,durable goods orders mom,-0.2,-0.1,-0.4,-0.9
+9/30/22,4:30 AM,personal spending mom,0.4,-0.2,0.2,0.2
+9/30/22,4:30 AM,personal income mom,0.3,0.3,0.3,0.2
+10/3/22,6:00 AM,ism manufacturing pmi,50.9,52.8,52.2,52.9
+10/4/22,6:00 AM,jolts job openings,10.053,11.17,10.775,11.1
+10/5/22,4:30 AM,balance of trade,-67.4,-70.5,-67.7,-68
+10/5/22,6:00 AM,ism non manufacturing pmi,56.7,56.9,56,56.4
+10/7/22,4:30 AM,non farm payrolls,263,315,250,290
+10/12/22,4:30 AM,ppi mom,0.4,-0.2,0.2,0
+10/12/22,10:00 AM,fomc minutes,,,,
+10/13/22,4:30 AM,inflation rate yoy,8.2,8.3,8.1,8.2
+10/13/22,4:30 AM,core inflation rate yoy,6.6,6.3,6.5,6.4
+10/14/22,4:30 AM,retail sales mom,0,0.4,0.2,0.2
+10/14/22,6:00 AM,michigan consumer sentiment pref,59.8,58.6,59,58.3
+10/19/22,4:30 AM,buildling permits,1.564,1.542,1.53,1.487
+10/27/22,4:30 AM,durable goods orders mom,0.4,0.2,0.6,0.2
+10/28/22,4:30 AM,personal income mom,0.4,0.4,0.3,0.2
+10/28/22,4:30 AM,personal spending mom,0.6,0.6,0.4,0.3
+11/1/22,6:00 AM,ism manufacturing pmi,50.2,50.9,50,50.1
+11/1/22,6:00 AM,jolts job openings,10.717,10.28,10,10.2
+11/2/22,10:30,fed press conference,,,,
+11/03/22,4:30 AM,balance of trade,-73.3,-65.7,-72.2,-72
+11/04/22,4:30 AM,Non Farm Payrolls,261,315,200,240
+11/10/22,5:30 AM,inflation rate yoy,7.7,8.2,8,8.1
+11/10/22,5:30 AM,core inflation rate yoy,6.3,6.6,6.5,6.7
+11/11/22,7:00 AM,michigan consumer sentiment pref,54.7,56.9,59.5,59.3
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

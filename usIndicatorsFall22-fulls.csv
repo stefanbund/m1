@@ -1,14 +1,14 @@
 ﻿date,time,indicator,actual,previous,consensus,forecast
-"Monday, August 1, 2022",6:00 AM,ISM Manufacturing PMI,52.8,53,52,52.2
-"Tuesday, August 2, 2022",6:00 AM,JOLTS Job Openings,10.698,11.303,11,11
-"Wednesday, August 3, 2022",6:00 AM,ISM Non Manufacturing PMI,56.7,55.3,53.5,52.5
-"Thursday, August 4, 2022",4:30 AM,Balance of Trade,-79.6,-84.9,-80.1,-83
-"Friday, August 5, 2022",4:30 AM,Non Farm Payrolls,528,398,250,290
-"Wednesday, August 10, 2022",4:30 AM,Core Inflation Rate,5.9,5.9,6.1,5.9
-"Wednesday, August 10, 2022",4:30 AM,Inflation Rate YoY,8.5,9.1,8.7,9.1
-"Thursday, August 11, 2022",4:30 AM,PPI MoM,-0.5,1,0.2,0.4
-"Friday, August 12, 2022",6:00 AM,Michigan Consumer Sentiment Pref,55.1,51.5,52.5,51.3
-"Tuesday, August 16, 2022",4:30 AM,Buildling Permits,1.674,1.696,1.65,1.67
+"Monday, August 1, 2022",6:00 AM,ism manufacturing pmi,52.8,53,52,52.2
+"Tuesday, August 2, 2022",6:00 AM,jolts job openings,10.698,11.303,11,11
+"Wednesday, August 3, 2022",6:00 AM,ism non manufacturing pmi,56.7,55.3,53.5,52.5
+"Thursday, August 4, 2022",4:30 AM,balance of trade,-79.6,-84.9,-80.1,-83
+"Friday, August 5, 2022",4:30 AM,non farm payrolls,528,398,250,290
+"Wednesday, August 10, 2022",4:30 AM,core inflation rate,5.9,5.9,6.1,5.9
+"Wednesday, August 10, 2022",4:30 AM,inflation rate yoy,8.5,9.1,8.7,9.1
+"Thursday, August 11, 2022",4:30 AM,ppi mom,-0.5,1,0.2,0.4
+"Friday, August 12, 2022",6:00 AM,michigan consumer sentiment pref,55.1,51.5,52.5,51.3
+"Tuesday, August 16, 2022",4:30 AM,building permits,1.674,1.696,1.65,1.67
 "Wednesday, August 17, 2022",4:30 AM,retail sales mom,0,0.8,0.1,0.2
 "Wednesday, August 17, 2022",10:00 AM,fomc minutes,,,,
 "Wednesday, August 24, 2022",4:30 AM,durable goods orders mom,0,2.2,0.6,0.8
@@ -22,7 +22,7 @@
 "Wednesday, September 7, 2022",4:30 AM,balance of trade,-70.7,-80.9,-70.3,-70
 "Wednesday, September 14, 2022",4:30 AM,ppi mom,-0.1,-0.4,-0.1,0.1
 "Thursday, September 15, 2022",4:30 AM,retail sales mom,0.3,-0.4,0,0.1
-"Friday, September 16, 2022",6:00 AM,Michigan Consumer Sentiment Pref,59.5,58.2,60,58.6
+"Friday, September 16, 2022",6:00 AM,michigan consumer sentiment pref,59.5,58.2,60,58.6
 "Tuesday, September 20, 2022",4:30 AM,building permits,1.517,1.685,1.61,1.63
 "Wednesday, September 21, 2022",10:00 AM,fomc economic projections,,,,
 "Wednesday, September 21, 2022",10:00 AM,fed press conference,,,,
